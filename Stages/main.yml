@@ -1,0 +1,43 @@
+entities: []
+grid:
+  1 62:
+    pos:
+    - 1
+    - 62
+    type: Grass_Rock
+  2 62:
+    pos:
+    - 2
+    - 62
+    type: Grass_Rock
+  3 62:
+    pos:
+    - 3
+    - 62
+    type: Grass_Rock
+  4 62:
+    pos:
+    - 4
+    - 62
+    type: Grass_Rock
+  5 62:
+    pos:
+    - 5
+    - 62
+    type: Grass_Rock
+  6 62:
+    pos:
+    - 6
+    - 62
+    type: Grass_Rock
+  7 62:
+    pos:
+    - 7
+    - 62
+    type: Grass_Rock
+player:
+- 2
+- 59
+size:
+- 64
+- 64
